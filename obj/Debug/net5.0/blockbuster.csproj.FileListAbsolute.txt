@@ -1,0 +1,16 @@
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster.deps.json
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster.runtimeconfig.json
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster.runtimeconfig.dev.json
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster.dll
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/ref/blockbuster.dll
+/home/ssl/workspace/blockbuster/bin/Debug/net5.0/blockbuster.pdb
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.csprojAssemblyReference.cache
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.GeneratedMSBuildEditorConfig.editorconfig
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.AssemblyInfoInputs.cache
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.AssemblyInfo.cs
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.csproj.CoreCompileInputs.cache
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.dll
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/ref/blockbuster.dll
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.pdb
+/home/ssl/workspace/blockbuster/obj/Debug/net5.0/blockbuster.genruntimeconfig.cache
