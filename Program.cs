@@ -32,6 +32,9 @@ namespace blockbuster
                     case "5":
                         FindById();
                         break;
+                    case "C":
+                    	Console.Clear();
+                    	break;  
                     default:
                         throw new ArgumentOutOfRangeException();
                 }
